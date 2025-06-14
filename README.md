@@ -50,16 +50,17 @@ This repository contains the design and documentation of a **custom parallel gri
 
 ## 🧰 Bill of Materials (BoM)
 
-| Component            | Description                                             |
-|---------------------|---------------------------------------------------------|
-| **3D Printing Filament** | PLA or ABS (chosen based on strength and availability) |
-| **Servo Motor**          | Feetech STS3215                                      |
-| **Sleeve Bearings**      | Inner Ø 3 mm, Outer Ø 5 mm                            |
-| **Steel Shafts**         | Diameter: 3 mm                                       |
-| **Screws**               | M3 metric screws (3 mm diameter)                     |
+
+| Component              | Description                                            | Reference Image                                   |
+|------------------------|--------------------------------------------------------|--------------------------------------------------|
+| **3D Printing Filament** | PLA or ABS (chosen based on strength and availability) |                                                  |
+| **Servo Motor**        | Feetech STS3215                                       | ![Servo Motor](./media/shopping.webp)            |
+| **Sleeve Bearings**    | Inner Ø 3 mm, Outer Ø 5 mm                             | ![Sleeve Bearing](./media/Sleeve.jpg)            |
+| **Steel Shafts**       | Diameter: 3 mm                                        | ![Steel Shaft](./media/61RdWxkbsAL.jpg)          |
+| **Screws**             | M3 metric screws (3 mm diameter)                      |                                                  |
+
 
 ---
 
-## 📂 File Structure (Recommended)
 
 
