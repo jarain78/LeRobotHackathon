@@ -64,6 +64,6 @@ This repository contains the design and documentation of a **custom parallel gri
 
 ## Video
 
-[![Demo del Gripper](media/Gripper_a_v1_O.png)](https://www.youtube.com/watch?v=_b54mGpSRdc)
+[▶️ Watch the demo video on YouTube](https://www.youtube.com/watch?v=_b54mGpSRdc)
 
 
