@@ -62,5 +62,8 @@ This repository contains the design and documentation of a **custom parallel gri
 
 ---
 
+## Video
+
+[![Ver video](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=_b54mGpSRdc)
 
 
